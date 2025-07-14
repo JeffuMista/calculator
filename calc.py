@@ -33,6 +33,8 @@ print(f"Sum: {sum_result}")  # ➕
 print(f"Difference: {difference_result}")  # ➖
 print(f"Product: {product_result}")  # ✖️
 print(f"Quotient: {quotient_result}")  # ➗
+
+# Step 5: Let's compare the two numbers! 🧐
 if num1 > num2:
     print(f"{num1} is greater than {num2}")
 elif num1 < num2:
